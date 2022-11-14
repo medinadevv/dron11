@@ -1,0 +1,534 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .header-nav button {
+        display: none;
+    }
+
+    .hero-bg {
+        right: 8px;
+    }
+
+    .hero-img {
+        width: 679px;
+        height: 484px;
+    }
+
+    .hero-img-title {
+        position: absolute;
+        bottom: 75px;
+        right: 44px;
+    }
+
+    .figure {
+        right: 217px;
+        top: 274px;
+    }
+
+    .figures {
+        bottom: 76px;
+    }
+
+    .hero-title h1 {
+        font-size: 30px;
+    }
+
+    .hero-title p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .hero {
+        flex-direction: column;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .hero-img {
+        width: 655px;
+        height: 484px;
+    }
+
+    .hero-title h1 {
+        font-size: 40px;
+    }
+
+    .hero-title p {
+        font-size: 16px;
+    }
+
+    .reals h1 {
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 120%;
+        color: #1E3240;
+    }
+
+    .reals p {
+        padding: 40px 0;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 120%;
+        color: #BDBDBD;
+    }
+
+    .project-title-left {
+        font-weight: 700;
+        font-size: 45px;
+        color: #1E3240;
+    }
+
+    .contact-title h1 {
+        padding: 10px 0;
+        font-weight: 700;
+        font-size: 44px;
+        color: #1E3240;
+    }
+
+    .contact-title p {
+        font-weight: 400;
+        font-size: 16px;
+        color: #BDBDBD;
+    }
+
+    .block {
+        flex-wrap: wrap;
+    }
+
+    .music {
+        flex-direction: column;
+    }
+
+    .shops a {
+        display: none;
+    }
+
+    .numbers {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .numbers {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .blocks-title {
+        flex-direction: column;
+        width: 650px;
+    }
+
+    .block {
+        justify-content: space-evenly;
+    }
+
+    .hero-img {
+        width: 90%;
+    }
+
+    .hero-img {
+        left: 50px;
+    }
+
+    .catalog {
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width: 576px) {
+    .hero img {
+        width: 90%;
+    }
+
+    .hero-bg {
+        right: 28px;
+    }
+
+    .hero-img-title {
+        bottom: 40px;
+        right: 36px;
+    }
+
+    .hero-drone {
+        bottom: 31px;
+        left: -57px;
+    }
+
+    .hero-img {
+        left: 20px;
+    }
+
+    .hero-img-title p {
+        font-size: 10px;
+    }
+
+    .hero-img-title h1 {
+        font-size: 12px;
+    }
+
+    .figure {
+        right: 174px;
+        top: 136px;
+    }
+
+    .hero-img {
+        height: 294px;
+    }
+
+    .figures {
+        bottom: 38px;
+        left: 48px;
+    }
+
+    .hero-img-title span {
+        font-size: 10px;
+    }
+
+    .ion {
+        font-size: 25px;
+        bottom: 23px;
+        right: 33px;
+    }
+
+    .blocks-title {
+        width: 497px;
+    }
+
+    .music img {
+        width: 90%;
+    }
+
+    .music-left-title h1 {
+        font-size: 20px;
+    }
+
+    .music-left-title p {
+        font-size: 13px;
+    }
+
+    .music-left-title {
+        bottom: 139px;
+        left: 70px;
+    }
+
+    .music-figure1 {
+        top: 132px;
+        left: 53px;
+        width: 16px;
+        height: 16px;
+    }
+
+    .music-figure2 {
+        top: 50px;
+        left: 394px;
+    }
+
+    .music-right-title h1 {
+        font-size: 20px;
+    }
+
+    .music-right-title p {
+        font-size: 13px;
+    }
+
+    .music-right-title {
+        bottom: 139px;
+        left: 70px;
+    }
+
+    .music-icon1 {
+        top: 132px;
+        left: 53px;
+        width: 16px;
+        height: 16px;
+    }
+
+    .music-icon2 {
+        top: 50px;
+        left: 394px;
+    }
+
+}
+
+@media (max-width: 451px) {
+    .hero-title h1 {
+        font-size: 30px;
+    }
+
+    .hero-title p {
+        font-size: 13px;
+    }
+
+    .hero-title button {
+        width: 196px;
+        height: 42px;
+        font-size: 10px;
+    }
+
+    .blocks-title {
+        width: 401px;
+    }
+
+    .hero-img {
+        height: 234px;
+    }
+
+    .hero-drone {
+        bottom: 41px;
+        left: -50px;
+    }
+
+    .hero-img-title h1 {
+        font-size: 10px;
+    }
+
+    .hero-img-title p {
+        font-size: 8px;
+    }
+
+    .hero-bg {
+        right: 19px;
+    }
+
+    .hero-img-title {
+        bottom: 27px;
+        right: 22px;
+    }
+
+    .figure {
+        right: 124px;
+        top: 88px;
+    }
+
+    .ion {
+        font-size: 20px;
+    }
+
+    .figures {
+        bottom: 37px;
+        left: 29px;
+    }
+
+    .music-left-title {
+        bottom: 95px;
+        left: 76px;
+    }
+
+    .music-left-title h1 {
+        font-size: 18px;
+    }
+
+    .music-left-title p {
+        font-size: 11px;
+    }
+
+    .music-figure1 {
+        top: 125px;
+        left: 57px;
+        width: 12px;
+        height: 12px;
+    }
+
+    .music-right-title {
+        bottom: 95px;
+        left: 76px;
+    }
+
+    .music-right-title h1 {
+        font-size: 18px;
+    }
+
+    .music-right-title p {
+        font-size: 11px;
+    }
+
+    .music-icon1 {
+        top: 125px;
+        left: 57px;
+        width: 12px;
+        height: 12px;
+    }
+
+    span {
+        font-size: 20px;
+    }
+
+    .numbers h1 {
+        font-size: 40px;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .hero-bg {
+        width: 90%;
+    }
+    .blocks-title {
+        width: 360px;
+    }
+
+    .hero-img {
+        height: 203px;
+    }
+    .hero-img {
+        left: -5px;
+    }
+    .hero-drone {
+        bottom: 44px;
+        left: -16px;
+    }
+    .blocks-title h1  {
+       font-size: 25px;
+    }
+    .blocks-label label {
+        margin: 0 4px;
+        font-size: 11px;
+    }
+    .scroll {
+        display: none;
+    }
+    .music-figure2 {
+        top: 30px;
+        left: 267px;
+}
+    .music-figure1 {
+        top: 87px;
+}
+    .music-icon2 {
+        top: 36px;
+        left: 267px;
+    }
+
+@media (max-width: 376px) {
+    .music-figure2 {
+        top: 33px;
+        left: 247px;
+    }
+    .music-left-title h1 {
+        font-size: 16px;
+    }
+    .music-left-title p {
+        font-size: 10px;
+    }
+    .music-icon2 {
+        top: 27px;
+        left: 252px;
+    }
+    .music-right-title h1 {
+        font-size: 15px;
+    }
+    .music-right-title p {
+        font-size: 10px;
+    }
+    .music-icon1 {
+        top: 80px;
+    }
+    .music-right-title {
+        bottom: 95px;
+        left: 70px;
+    }
+    .blocks-title {
+        width: 319px;
+    }
+    .hero-img {
+        left: 9px;
+    }
+    .hero-bg {
+        right: 16px;
+    }
+    .hero-img {
+        width: 90%;
+    }
+    .hero-drone {
+        bottom: 38px;
+        left: -38px;
+    }
+    .hero-img-title h1 {
+        font-size: 9px;
+    }
+    .hero-img-title p {
+        font-size: 7px;
+    }
+    .figure {
+        right: 115px;
+        top: 63px;
+    }
+
+    }
+}
+
+@media (max-width: 320px) {
+    .blocks-title h1 {
+        font-size: 20px;
+    }
+    .blocks-label label {
+        font-size: 13px ;
+    }
+    .cards1 {
+        width: 90%;
+    }
+    .header-price {
+        display: none;
+    }
+    . shops  {
+     flex-direction: column;
+    }
+
+    .music-figure2 {
+        top: 27px;
+        left: 197px;
+    }
+    .music-icon2 {
+        top: 27px;
+        left: 197px;
+    }
+    .music-left-title {
+        bottom: 58px;
+        left: 56px;
+    }
+    .music-left-title h1 {
+        font-size: 14px;
+    }
+    .music-left-title p {
+        font-size: 8px;
+    }
+    .music-figure1 {
+        top: 77px;
+        left: 42px;
+    }
+    .catalog-title {
+        text-align: center;
+        font-size: 20px;
+    }
+   .shops {
+       flex-direction: column;
+       padding: 20px 0;
+   }
+    .music-right-title h1 {
+        font-size: 10px;
+    }
+    .music-right-title p {
+        font-size: 9px;
+    }
+    .card {
+        width: 183px;
+    }
+    .blocks-title {
+        width: 265px;
+    }
+    .music-icon1 {
+        top: 63px;
+    }
+
+}
